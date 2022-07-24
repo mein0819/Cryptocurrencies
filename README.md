@@ -11,4 +11,8 @@ The purpose of this project is to preprocess Crytocurrency data to create a repo
 
 ### Classifaction Using PCA Algorithm
 
-![pca](
+![pca](https://github.com/mein0819/Cryptocurrencies/blob/main/readMe_Images/pca.png)
+
+### Table From DataFrame with Classifications
+
+![table](
