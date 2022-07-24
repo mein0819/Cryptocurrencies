@@ -15,4 +15,8 @@ The purpose of this project is to preprocess Crytocurrency data to create a repo
 
 ### Table From DataFrame with Classifications
 
-![table](
+![table](https://github.com/mein0819/Cryptocurrencies/blob/main/readMe_Images/table.png)
+
+### 3-D Scatter Plot Showing Classifications
+
+![3D](
