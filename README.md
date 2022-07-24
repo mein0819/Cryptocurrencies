@@ -19,4 +19,8 @@ The purpose of this project is to preprocess Crytocurrency data to create a repo
 
 ### 3-D Scatter Plot Showing Classifications
 
-![3D](
+![3D](https://github.com/mein0819/Cryptocurrencies/blob/main/readMe_Images/3d_Scatter.png)
+
+### Scatter Plot Visualizing Tradeable Cryptocurrencies
+
+![scatter](
