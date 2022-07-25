@@ -23,4 +23,4 @@ The purpose of this project is to preprocess Crytocurrency data to create a repo
 
 ### Scatter Plot Visualizing Tradeable Cryptocurrencies
 
-![scatter](
+![scatter](https://github.com/mein0819/Cryptocurrencies/blob/main/readMe_Images/scatter.png)
